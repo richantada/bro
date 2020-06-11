@@ -722,7 +722,8 @@ http://serverid.tech/play/trial@serverid.tech/81414812/nnB3ZMFI/murinae/jumanjit
 http://serverid.tech/play/trial@serverid.tech/81414812/nnB3ZMFI/murinae/istillbelieve_pratensis/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gretel and Hansel (2020)" tvg-logo="" group-title="VOD (Masih Perbaikan)", Gretel and Hansel (2020)
 http://serverid.tech/play/trial@serverid.tech/81414812/nnB3ZMFI/murinae/gretelandhansel_pratensis/playlist.m3u8
- 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="LOCAL", GLOBAL TV 
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
  
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xMXy9IsKJfKo_4TiJwmBlss-2X0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="LOCAL",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
